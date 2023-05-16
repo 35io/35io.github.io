@@ -2,6 +2,7 @@
 title: tradingview engulf indicator
 date: 2023-05-16 10:49:43
 tags: tradingview
+author: Shannon
 ---
 There is a requirement like this:
 
